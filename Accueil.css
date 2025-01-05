@@ -336,11 +336,14 @@
 
   .u-section-2 .u-text-1 {
     font-size: 2.25rem;
+    width: auto;
+    margin-top: 30px;
     margin-left: 5px;
     margin-right: 5px;
   }
 
   .u-section-2 .u-text-2 {
+    margin-top: 0;
     margin-left: 5px;
     margin-right: 5px;
   }
@@ -1141,7 +1144,6 @@
     margin-right: initial;
     margin-left: initial;
     width: auto;
-    height: auto;
   }
 
   .u-section-6 .u-repeater-1 {
@@ -1384,6 +1386,7 @@
   }
 
   .u-section-7 .u-text-1 {
+    font-size: 3.75rem;
     width: auto;
     margin-top: 0;
     margin-right: 15px;
